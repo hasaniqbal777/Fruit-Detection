@@ -40,4 +40,4 @@ def plot_img_bbox(img, target):
                                  facecolor='none')
         a.add_patch(rect)
 
-    return fig
+    plt.show()

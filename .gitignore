@@ -1,2 +1,11 @@
+.DS_Store
+
+# Virtual Environment files
 .venv/
+
+# Trained models, tensorboard events, embeddings, etc. (tensorboard files)
 models/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
